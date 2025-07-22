@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "sn_stranger_things",
+    "type": "series",
+    "name": "Stranger Things",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/f/f7/Stranger_Things_season_4.jpg",
+    "description": "Un grupo de ni\u00f1os descubre fen\u00f3menos sobrenaturales en su ciudad.",
+    "videos": [
+      {
+        "id": "sn_stranger_things_s01e01",
+        "title": "T1 E1 - El Desaparecido de Hawkins",
+        "season": 1,
+        "episode": 1
+      },
+      {
+        "id": "sn_stranger_things_s01e02",
+        "title": "T1 E2 - La locura de Eleven",
+        "season": 1,
+        "episode": 2
+      }
+    ]
+  }
+}

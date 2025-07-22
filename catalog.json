@@ -1,0 +1,18 @@
+{
+  "metas": [
+    {
+      "id": "sn_stranger_things",
+      "type": "series",
+      "name": "Stranger Things",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/f7/Stranger_Things_season_4.jpg",
+      "description": "Un grupo de ni\u00f1os descubre fen\u00f3menos sobrenaturales en su ciudad."
+    },
+    {
+      "id": "sn_la_casa_de_papel",
+      "type": "series",
+      "name": "La Casa de Papel",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/88/Money_Heist_poster.jpg",
+      "description": "Un grupo de criminales realiza un asalto a la F\u00e1brica Nacional de Moneda y Timbre."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "org.stremio.seriesnetflix",
+  "version": "1.0.0",
+  "name": "SERIES NETFLIX",
+  "description": "Tus series personalizadas estilo Netflix.",
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "types": [
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "series_netflix",
+      "name": "SERIES NETFLIX"
+    }
+  ],
+  "idPrefixes": [
+    "sn_"
+  ]
+}

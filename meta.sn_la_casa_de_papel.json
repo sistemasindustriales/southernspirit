@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "id": "sn_la_casa_de_papel",
+    "type": "series",
+    "name": "La Casa de Papel",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/88/Money_Heist_poster.jpg",
+    "description": "Un grupo de criminales realiza un asalto a la F\u00e1brica Nacional de Moneda y Timbre.",
+    "videos": [
+      {
+        "id": "sn_la_casa_de_papel_s01e01",
+        "title": "T1 E1 - El gran plan",
+        "season": 1,
+        "episode": 1
+      },
+      {
+        "id": "sn_la_casa_de_papel_s01e02",
+        "title": "T1 E2 - Rehenes y estrategia",
+        "season": 1,
+        "episode": 2
+      }
+    ]
+  }
+}
