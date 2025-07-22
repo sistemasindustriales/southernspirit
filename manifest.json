@@ -1,0 +1,16 @@
+{
+  "id": "org.stremio.vacaciones",
+  "version": "1.0.0",
+  "name": "SERIE - Vacaciones en NY",
+  "description": "Tu serie personalizada con capítulos desde tus propios links",
+  "logo": "https://i.imgur.com/ABC1234.png",
+  "resources": ["catalog", "meta", "stream"],
+  "types": ["series"],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "catalogo_vacaciones"
+    }
+  ],
+  "idPrefixes": ["serie_vacaciones_en_ny"]
+}

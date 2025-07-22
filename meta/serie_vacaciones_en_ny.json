@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "id": "serie_vacaciones_en_ny",
+    "type": "series",
+    "name": "Vacaciones en NY",
+    "poster": "https://i.imgur.com/XYZposter.jpg",
+    "description": "Una serie sobre nuestras vacaciones inolvidables en Nueva York.",
+    "background": "https://i.imgur.com/background123.jpg",
+    "videos": [
+      {
+        "id": "serie_vacaciones_en_ny:s01e01",
+        "title": "Día 1 - Llegada y paseo por Times Square",
+        "season": 1,
+        "episode": 1,
+        "released": "2024-01-01",
+        "overview": "Exploramos Times Square y probamos comida callejera.",
+        "thumbnail": "https://i.imgur.com/thumb1.jpg"
+      },
+      {
+        "id": "serie_vacaciones_en_ny:s01e02",
+        "title": "Día 2 - Central Park y Museo",
+        "season": 1,
+        "episode": 2,
+        "released": "2024-01-02",
+        "overview": "Paseo en bici por Central Park y visita al MET.",
+        "thumbnail": "https://i.imgur.com/thumb2.jpg"
+      }
+    ]
+  }
+}
